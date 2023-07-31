@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Crud-App-Using-Redux/static/css/main.c6aea74a.css",
+    "main.js": "/Crud-App-Using-Redux/static/js/main.d47ca8ef.js",
+    "index.html": "/Crud-App-Using-Redux/index.html",
+    "main.c6aea74a.css.map": "/Crud-App-Using-Redux/static/css/main.c6aea74a.css.map",
+    "main.d47ca8ef.js.map": "/Crud-App-Using-Redux/static/js/main.d47ca8ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6aea74a.css",
+    "static/js/main.d47ca8ef.js"
+  ]
+}
